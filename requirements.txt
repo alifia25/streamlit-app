@@ -1,0 +1,10 @@
+pip
+pandas
+numpy
+string
+random
+pickle
+nltk
+scikit-learn
+sklearn
+matplotlib 
